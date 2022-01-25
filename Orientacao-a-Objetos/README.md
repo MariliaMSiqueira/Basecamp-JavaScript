@@ -1,0 +1,1 @@
+Exercícios para consolidar conhecimentos adquiridos em JavaScript
